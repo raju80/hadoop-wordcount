@@ -2,7 +2,7 @@
 ## DATE :: 05-04-2017
 
 ## A SIMPLE HADOOP WORDCOUNT JOB 
-
+## INPUT and OUPUT path should be on HDFS
 if [ $# -eq 4 ]; then       
     JAR=$1
     CLASS=$2
