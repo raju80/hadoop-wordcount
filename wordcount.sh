@@ -1,6 +1,6 @@
 #!/bin/bash
 ## DATE :: 05-04-2017
-
+## AUTHOR RAJU
 ## A SIMPLE HADOOP WORDCOUNT JOB 
 ## INPUT and OUPUT path should be on HDFS
 if [ $# -eq 4 ]; then       
